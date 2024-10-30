@@ -16,7 +16,7 @@ and visions for the future of email.
 
 The Devroom will be **held on Saturday, February 1** full day, with primarily
 talks on the schedule. The **submission deadline for talks is December 1st,
-2024**. 
+2024**.
 
 * **Speaker**: As a speaker, you're invited to present your work in the developer room.
 * **Volunteer**: As a volunteer, you would be helping us out during the sessions.
@@ -41,8 +41,8 @@ people probably?).
 Following last year's good practice, we'd like to reserve a table for an
 informal "friends of email" dinner/drinks session either on FRI or SAT evening.
 [Note here](https://hackmd.io/@ndFSGqY1SC6Cc0DEpHHU1w/HyMUuORxye) or email us
-if you'd like to join, so we can guess the crowed (we were some 20+ people last
-time! Venue proposals welcome as well.
+if you'd like to join, so we can guess the group size (we were some 20+ people
+last time! Venue proposals welcome as well.
 
 ## Topics
 
@@ -108,7 +108,7 @@ cases.
 For the latest details, see: https://github.com/modern-email/FOSDEM-25
 
 Join the matrix room (also for coordination during FOSDEM):
-https://matrix.to/#/#modern-email-fosdem-25-cfp:matrix.org
+https://matrix.to/#/#modern-email-fosdem-25:matrix.org
 
 Contact the organizers:
 
